@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0166b3910658b734a82314d53698ee25, type: 3}
+  m_Name: MKB16
+  m_EditorClassIdentifier: 
+  _selectWeaponType: 0
+  _prefabGun: {fileID: 5412471849917846727, guid: d4b671c7560be1a4188594c585edd535, type: 3}
+  _icon: {fileID: 21300000, guid: dcd2a2de32e82ee4ea68ac66be906593, type: 3}
+  _shootEffect: {fileID: 0}
+  _weaponID: 1000
+  _magazineSize: 30
+  _damage: 15
+  _reloadTime: 3.3
